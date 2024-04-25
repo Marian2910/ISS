@@ -1,0 +1,15 @@
+/Users/mariancatalin/Documents/Facultate/An 3/ISS/BiletOnline/BiletOnline/bin/Debug/net7.0/BiletOnline
+/Users/mariancatalin/Documents/Facultate/An 3/ISS/BiletOnline/BiletOnline/bin/Debug/net7.0/BiletOnline.deps.json
+/Users/mariancatalin/Documents/Facultate/An 3/ISS/BiletOnline/BiletOnline/bin/Debug/net7.0/BiletOnline.runtimeconfig.json
+/Users/mariancatalin/Documents/Facultate/An 3/ISS/BiletOnline/BiletOnline/bin/Debug/net7.0/BiletOnline.dll
+/Users/mariancatalin/Documents/Facultate/An 3/ISS/BiletOnline/BiletOnline/bin/Debug/net7.0/BiletOnline.pdb
+/Users/mariancatalin/Documents/Facultate/An 3/ISS/BiletOnline/BiletOnline/obj/Debug/net7.0/BiletOnline.csproj.AssemblyReference.cache
+/Users/mariancatalin/Documents/Facultate/An 3/ISS/BiletOnline/BiletOnline/obj/Debug/net7.0/BiletOnline.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariancatalin/Documents/Facultate/An 3/ISS/BiletOnline/BiletOnline/obj/Debug/net7.0/BiletOnline.AssemblyInfoInputs.cache
+/Users/mariancatalin/Documents/Facultate/An 3/ISS/BiletOnline/BiletOnline/obj/Debug/net7.0/BiletOnline.AssemblyInfo.cs
+/Users/mariancatalin/Documents/Facultate/An 3/ISS/BiletOnline/BiletOnline/obj/Debug/net7.0/BiletOnline.csproj.CoreCompileInputs.cache
+/Users/mariancatalin/Documents/Facultate/An 3/ISS/BiletOnline/BiletOnline/obj/Debug/net7.0/BiletOnline.dll
+/Users/mariancatalin/Documents/Facultate/An 3/ISS/BiletOnline/BiletOnline/obj/Debug/net7.0/refint/BiletOnline.dll
+/Users/mariancatalin/Documents/Facultate/An 3/ISS/BiletOnline/BiletOnline/obj/Debug/net7.0/BiletOnline.pdb
+/Users/mariancatalin/Documents/Facultate/An 3/ISS/BiletOnline/BiletOnline/obj/Debug/net7.0/BiletOnline.genruntimeconfig.cache
+/Users/mariancatalin/Documents/Facultate/An 3/ISS/BiletOnline/BiletOnline/obj/Debug/net7.0/ref/BiletOnline.dll
