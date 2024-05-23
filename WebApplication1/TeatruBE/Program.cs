@@ -20,6 +20,15 @@ builder.Services.AddScoped<ISpectacolService, SpectacolService>();
 builder.Services.AddDbContext<TeatruContext>(options =>
         options.UseSqlServer("Server=localhost;Database=Teatru;User Id=SA;Password=MyPassword123#;TrustServerCertificate=true;"));
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowSpecificOrigin",
+        builder => builder.WithOrigins("http://localhost:5500")
+            .AllowAnyHeader()
+            .AllowAnyMethod());
+});
+
+
 var app = builder.Build();
 
 
@@ -30,6 +39,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors("AllowSpecificOrigin");
 
 app.UseHttpsRedirection();
 
