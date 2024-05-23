@@ -1,0 +1,80 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>BiletOnline</title>
+</head>
+<body>
+
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="logo">
+                <a href="index.html">
+                    <div class="logo-container">
+                        <img src="images/logo.png" alt="logo">
+                    </div>
+                </a>
+            </div>
+            <div class="main-menu">
+                <ul>
+                    <li>
+                        <a href="index.html">Home</a>
+                    </li>
+                    <li>
+                        <a href="spectacle.html">Spectacole</a>
+                    </li>
+                    <li>
+                        <a href="#">Program</a>
+                    </li>
+                    <li>
+                        <a class="btn btn-light" href="login.html">
+                            <i class="fas fa-user"></i> Log in
+                        </a>
+                    </li>
+                    <li>
+                        <a class="btn btn-light" href="signup.html">
+                            <i class="fas fa-user"></i> Sign up
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    
+    <div class="login-container">
+    <form action="/action_page.php" method="post">
+        <div class="imgcontainer">
+            <img src="images/img_avatar2.png" alt="Avatar" class="avatar">
+        </div>
+    
+        <div class="container">
+            <label for="uname"><b>Username</b></label>
+            <input type="text" placeholder="Enter Username" name="uname" required>
+    
+            <label for="psw"><b>Password</b></label>
+            <input type="password" placeholder="Enter Password" name="psw" required>
+    
+            <button type="submit">Login</button>
+            <label>
+                <input type="checkbox" checked="checked" name="remember"> Remember me
+            </label>
+        </div>
+    
+        <div class="container" style="background-color:#01020b00">
+            <button type="button" class="cancelbtn">Cancel</button>
+            <span class="psw">Forgot <a href="#">password?</a></span>
+        </div>
+    </form>
+</div>
+    
+    
+  
+<script src="js/script.js"></script>
+<script src="js/login.js"></script>
+
+
+</body>
+</html>
